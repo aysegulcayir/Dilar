@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'aysglazurewebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B5772D1FB5804A1FB1A63DC5675666DA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_999301E653E24B2897609BBAE744362D }}
           package: '*.jar'
